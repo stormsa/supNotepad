@@ -1,0 +1,110 @@
+#content{
+	background-color: #e3e3e3;
+	height: 1000px;
+}
+header{
+	border-bottom: 1px solid #1b6d85;
+	background-color: white;
+	font-family: 'Merriweather', serif;
+}
+#nagigation_panel{
+	height: 50px;
+	background-color: #e6e6e6;
+}
+#home_button{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+#logo{
+	position: absolute;
+	left: 50%;
+	top: -17px;
+	transform: translateX(-50%);
+}
+#beta{
+	position: absolute;
+	left: 65%;
+	top: -17px;
+	transform: translateX(-50%);
+	width: 100px;
+}
+label{
+	font-size: 16px;
+	font-family: 'Merriweather', serif;
+}
+
+/* Page d'accueil */
+.glyphicon-home
+{
+	position: relative;
+	top: 0px;
+	font-size: 21px;
+}
+
+.grandeIcone
+{
+	font-size:170px;
+	display:block;
+}
+
+.fa
+{
+	color: #F07D00;
+	text-align:center;
+}
+.agency{
+	text-align:center;
+}
+
+h3
+{
+
+	color: #CF022B;
+}
+
+footer
+{
+	margin-top:200px;
+}
+
+#copyright
+{
+	float:left;
+	position: absolute;
+	bottom: 0px;
+}
+#logo-CM-SA
+{
+	float:right;
+}
+
+#A151:hover,#A152:hover,#A156:hover
+{
+	background-color:#D8D8D8;
+	cursor:pointer;
+}
+
+.portfolio-item {
+	margin-bottom: 25px;
+}
+.portfolio-item img{
+	max-height: 150px;
+	min-height: 150px;
+	margin: auto;
+
+}
+.notepad_title{
+	text-align: center;
+}
+.notepad_description{
+	height: 100px;
+	overflow-x: auto;
+	text-align: center;
+}
+a.fill-div {
+	display: block;
+	height: 100%;
+	width: 100%;
+	text-decoration: none;
+}
+
